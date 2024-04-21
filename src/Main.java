@@ -3,5 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Say hello to your machine");
+        System.out.println("Thinking in the air!");
+        System.out.println("More one more");
     }
 }
